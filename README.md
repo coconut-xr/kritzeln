@@ -1,10 +1,12 @@
 # @coconut-xr/kritzeln 🖌️
 
-![Header Image](./header.jpg)
+![Header Image](./header.gif)
 
-MR Wapp Paintining Demo - Try it out [here](coconut-xr.github.io/kritzeln/)
+>  I made a scrawl on the wall, it's art y'all, don't fall in the hall! - ChaptGPT
 
-Check out our release video over on [Twitter](https://twitter.com/coconut_xr/status/1697613919617995254)
+Try it out [here](coconut-xr.github.io/kritzeln/) using a Quest 3 or similar.
+
+Check out our [release video](https://x.com/coconut_xr/status/1712504946883510743)
 
 **Share your drawing with us on [Twitter](https://twitter.com/coconut_xr)**
 
@@ -17,4 +19,4 @@ _The demo lacks some features, so feel free to add your own implementations! We'
 
 ---
 
-**Cave Painter** is funded by [Coconut Capital](https://coconut.capital/)
+**Kritzeln** is funded by [Coconut Capital](https://coconut.capital/)
